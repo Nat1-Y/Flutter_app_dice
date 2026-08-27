@@ -1,6 +1,6 @@
 # first_app
 app vesrion
-new
+new start
 A new Flutter project.
 start
 ## Getting Started
