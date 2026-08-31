@@ -1,4 +1,5 @@
 # first_app
+version new
 app vesrion
 start
 new start
