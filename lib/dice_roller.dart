@@ -45,6 +45,7 @@ class _DiceRollerState extends State<DiceRoller> {
             // ),
             foregroundColor: Colors.white,
             textStyle: const TextStyle(
+              //font
               fontSize: 28,
             ),
           ),
