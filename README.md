@@ -1,5 +1,5 @@
 # first_app_dart
-version new
+version new dock
 app vesrion
 start
 new start
