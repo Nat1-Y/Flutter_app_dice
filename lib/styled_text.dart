@@ -8,6 +8,7 @@ class StyledText extends StatelessWidget {
   final String text;
 //text
   @override
+  //build
   Widget build(context) {
     return Text(
       text,
