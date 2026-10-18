@@ -26,6 +26,7 @@ class _DiceRollerState extends State<DiceRoller> {
   }
 
   @override
+  //widget
   Widget build(context) {
     return Column(
       mainAxisSize: MainAxisSize.min,
