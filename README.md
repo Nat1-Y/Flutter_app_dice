@@ -6,7 +6,7 @@ new start
 A new Flutter project.
 start
 ## Getting Started
-app
+app flutter
 flutter proj_1
 This project is a starting point for a Flutter application.
 
