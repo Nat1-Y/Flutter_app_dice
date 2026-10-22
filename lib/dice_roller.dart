@@ -16,7 +16,7 @@ class DiceRoller extends StatefulWidget {
     return _DiceRollerState();
   }
 }//ovrride
-
+//class
 class _DiceRollerState extends State<DiceRoller> {
   var currentDiceRoll = 2;
 //roll
