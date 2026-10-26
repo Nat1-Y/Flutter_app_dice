@@ -42,6 +42,7 @@ class _DiceRollerState extends State<DiceRoller> {
         ),
         //button
         //box
+        //const
         const SizedBox(height: 20),
         //button
         TextButton(
