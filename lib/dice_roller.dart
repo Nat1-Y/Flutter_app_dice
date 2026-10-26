@@ -49,6 +49,7 @@ class _DiceRollerState extends State<DiceRoller> {
         TextButton(
           //box
           onPressed: rollDice,
+          //roll
           style: TextButton.styleFrom(
             // padding: const EdgeInsets.only(
             //   top: 20,
