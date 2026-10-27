@@ -2,7 +2,7 @@
 version new dock api
 app vesrion
 start app
-new start
+new start ci
 A new Flutter project.
 start
 ## Getting Started
