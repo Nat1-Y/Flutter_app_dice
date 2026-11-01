@@ -5,7 +5,7 @@ start app
 new start ci
 A new Flutter project.
 start lkj
-## Getting Started
+## Getting Started app
 app flutter
 flutter proj_1 app
 This project is a starting point for a Flutter application.and
