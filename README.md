@@ -1,7 +1,7 @@
 # first_app_dart
 version new dock api
 app  ip
-start app
+start app ci
 new start ci
 A new Flutter project.
 start lkj
