@@ -1,6 +1,6 @@
 # first_app_dart
 version new dock api
-app vesrion
+app  ip
 start app
 new start ci
 A new Flutter project.
