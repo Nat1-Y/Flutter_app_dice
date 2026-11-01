@@ -16,6 +16,6 @@ link obj/
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 documentation
 For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
+[online documentation](https://docs.flutter.dev/), which offers tutorials,api
 samples, guidance on mobile development, and a full API reference.
 # Flutter_app_dice
