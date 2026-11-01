@@ -6,7 +6,7 @@ new start ci
 A new Flutter project.
 start lkj
 ## Getting Started app
-app flutter
+app flutter npm
 flutter proj_1 app
 This project is a starting point for a Flutter application.and
 
